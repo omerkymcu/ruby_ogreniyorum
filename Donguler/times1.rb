@@ -1,0 +1,1 @@
+7.times { |a| puts" #{a}. Merhaba Dünya"}
